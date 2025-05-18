@@ -1,0 +1,3 @@
+[submodule "E-commerce-Lite"]
+	path = E-commerce-Lite
+	url = git@github.com:Francis-2030/E-commerce-Lite.git
